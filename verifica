@@ -1,0 +1,7 @@
+principi principali della sintesi sottrattiva:
+•filtrare vuol dire tagliare;
+•lowpass, sta a significare passa basso;
+•highpass, passa alto;
+•la frequenza indica il punto di taglio del filtro,cutoff e fcut;
+•l'acronimo fi,sta per la cartella filters;
+•no noise blocca il segnale di entrata
