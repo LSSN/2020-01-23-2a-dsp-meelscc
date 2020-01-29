@@ -5,3 +5,6 @@ principi principali della sintesi sottrattiva:
 •la frequenza indica il punto di taglio del filtro,cutoff e fcut;
 •l'acronimo fi,sta per la cartella filters;
 •no noise blocca il segnale di entrata
+
+import("stdfaust.lib");
+process=fi.passabanda(4,cutoff);
